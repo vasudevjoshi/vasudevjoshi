@@ -1,3 +1,5 @@
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Welcome+to+My+Github+Profile!;Hi+I'm+Vasudev+" alt="Typing SVG" /></a>
 # 💫 About Me:
 🚀 Full Stack Developer | MERN Enthusiast<br><br>Hey there! 👋 I'm actively crafting MERN Stack projects, pushing the limits of web development and bringing ideas to life with MongoDB, Express.js, React, and Node.js.<br><br>💡 Open for Collaborations | Let's build something amazing together! If you're working on exciting projects or have innovative ideas, I'm all ears—let's connect and create!<br><br>🔍 Constant Learner | Exploring new technologies, optimizing code, and making the web more dynamic one project at a time.<br><br>⚡ Let's code, collaborate, and innovate!
 
