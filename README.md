@@ -1,7 +1,7 @@
 # 💫 About Me:
 🚀 Full Stack Developer | MERN Enthusiast<br><br>Hey there! 👋 I'm actively crafting MERN Stack projects, pushing the limits of web development and bringing ideas to life with MongoDB, Express.js, React, and Node.js.<br><br>💡 Open for Collaborations | Let's build something amazing together! If you're working on exciting projects or have innovative ideas, I'm all ears—let's connect and create!<br><br>🔍 Constant Learner | Exploring new technologies, optimizing code, and making the web more dynamic one project at a time.<br><br>⚡ Let's code, collaborate, and innovate!
 
-
+  [![HitCount](https://hits.dwyl.com/vasudevjoshi/https://githubcom/vasudevjoshi/vasudevjoshigit.svg?style=flat-square)](http://hits.dwyl.com/vasudevjoshi/https://githubcom/vasudevjoshi/vasudevjoshigit)
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vasudevjoshi26) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/vasujoshi2003) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vasujoshi2003@gmail.com) 
 
