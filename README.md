@@ -16,7 +16,7 @@ Full Stack Java Developer | Building AI-powered applications with RAG Pipelines
 - 🔭 Currently building **AI Course Builder** – an AI-driven platform for generating structured learning content  
 - 🌱 Exploring **Spring AI, Agentic AI, DevOps, and System Design**  
 - 💡 Passionate about **scalable backend systems and AI integrations (RAG, LLMs)**  
-- 👨‍💻 Portfolio(In Progress): **https:// vasudevjoshi.me**  
+- 👨‍💻 Portfolio(In Progress): **https://vasudevjoshi.me**  
 - 📫 Reach me at: **vasujoshi2003@gmail.com**  
 
 ---
